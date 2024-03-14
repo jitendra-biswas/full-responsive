@@ -136,10 +136,10 @@ nav{
     }
 
     .div2{
-        width: 300px;
-        height: 300px;
+        width: 320px;
+        height: 320px;
         border-radius: 50%;
-        filter: drop-shadow(7px 10px 50px rgb(207, 233, 163));
+        filter: drop-shadow(10px 0px 30px rgb(71, 85, 45));
     }
 
    
