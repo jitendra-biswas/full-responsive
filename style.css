@@ -130,15 +130,6 @@ nav ul a{
      background-position-x: center ;
 }
 
-.cursor{
-   height: 30px;
-   width: 30px;
-   background-image: url(cursor.png);
-   background-size: cover;
-   position: absolute;
-   mix-blend-mode: difference;
-   filter: drop-shadow(15px 25px 25px rgb(255, 0, 0));
-}
 
 @media(max-width:600px){
 
