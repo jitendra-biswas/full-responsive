@@ -35,6 +35,11 @@ nav ul a{
     color: white;
 }
 
+nav ul a:hover{
+    cursor: pointer;
+    color: rgb(207, 233, 163);
+}
+
 #bar{
     display: none;
 }
@@ -116,7 +121,6 @@ nav ul a{
 
 .div1 .button button:hover{
     cursor: pointer;
-    
     color: rgb(207, 233, 163);
     border: 1px solid rgb(207, 233, 163);
     filter: drop-shadow(10px 25px 50px rgb(207, 233, 163));
