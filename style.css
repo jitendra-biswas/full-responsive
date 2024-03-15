@@ -63,6 +63,7 @@ nav ul a{
    backdrop-filter: blur(10px);
    margin-left: 70vw;
    padding:20px 0px;
+   border-radius: 25px;
 }
 
 .side-nav ul{
